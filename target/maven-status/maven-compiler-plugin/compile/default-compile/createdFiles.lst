@@ -1,0 +1,6 @@
+com\memoriacompartida\Multicast.class
+com\memoriacompartida\RevisarCambio.class
+com\memoriacompartida\Prog1.class
+com\memoriacompartida\Token$ServidorToken.class
+com\memoriacompartida\Token.class
+com\memoriacompartida\Token$WorkerToken.class
